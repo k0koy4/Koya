@@ -1,4 +1,3 @@
-# Koya
 <h1 align="center">⋆˚࿔ Hi there, I'm Koya 𝜗𝜚˚⋆</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
