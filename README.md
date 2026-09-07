@@ -48,9 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k0koy4&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k0koy4&theme=tokyo-night&hide_border=true" alt="activity graph"/>
-</p>
 
 ---
 
