@@ -60,13 +60,6 @@
   <img src="https://raw.githubusercontent.com/k0koy4/k0koy4/output/github-snake.svg" alt="snake animation" />
 </p>
 
----
-
-### ⋆.𐙚 ̊ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k0koy4&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
-</p>
 
 ---
 
