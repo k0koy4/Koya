@@ -34,7 +34,7 @@
 ### ⋆.𐙚 ̊ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/k0koy4/k0koy4/output/github-snake.svg" alt="snake animation" />
+  <p align="center"> <img src="https://raw.githubusercontent.com/k0koy4/k0koy4/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
